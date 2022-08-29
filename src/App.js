@@ -26,7 +26,6 @@ function App() {
           <Route path="/" element={<MainPage />} />
           {/* <Route index element={<Home />} /> */}
           <Route path="/view-course/:id" element={<ViewCourses />} />
-
         </Routes>
       </BrowserRouter>
     </stateContext.Provider >

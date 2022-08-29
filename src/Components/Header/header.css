@@ -1,0 +1,46 @@
+.headerBtn {
+    width: 100px;
+    height: 35px;
+    border: 2px solid gray;
+}
+
+.headerSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(65, 178, 227);
+    /* height: 50px; */
+    /* width: 100%; */
+    
+}
+
+.headerSection .login-btn {
+    margin-right: 10px;
+
+}
+
+.headerSection .signup-btn {
+    background-color: rgb(66, 57, 57);
+    color: white;
+    border: none;
+}
+
+.searchInput {
+    height: 30px;
+    width: 300px;
+    border: 1.5px solid black;
+    outline: none;
+    border-radius: 10px 0px 0px 10px;
+    border-right: none;
+}
+
+.searchbtn {
+    height: 30px;
+    border: 1.5px solid black;
+    outline: none;
+    background-color: #4d4fd4;
+    color: white;
+    border-radius: 0px 10px 10px 0px;
+}

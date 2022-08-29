@@ -1,0 +1,48 @@
+.viewCourseContent {
+    height: 200px;
+    /* width: 100%; */
+    background-color: black;
+    padding: 20px;
+}
+
+.viewCourseContent {
+    color: white;
+}
+
+.courseText {
+    width: 50%;
+
+}
+
+.courseCard {
+    background-color: rgb(235, 226, 217);
+    /* height: 400px; */
+    float: right;
+    position: static;
+    margin: -160px 10% 0px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.courseCard img {
+    /* width:; */
+    /* border: 5px solid red; */
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.courseInfo {
+    margin: 10px;
+}
+
+
+.course-btn button {
+    width: 75%;
+    height: 40px;
+    margin: 0px 10%;
+    background-color: rgb(60, 201, 214);
+    border: 3px solid red;
+    /* border-radius: 0px 0px 10px 10px; */
+
+}
